@@ -1,3 +1,20 @@
-﻿  Game.cpp
-D:\Pobrane D\kolkoikrzyzyk1\Game.cpp(165,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+﻿  Board.cpp
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(18,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,72): warning C4244:         with
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,72): warning C4244:         [
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,72): warning C4244:             T=float
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,72): warning C4244:         ]
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,58): warning C4244:         with
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,58): warning C4244:         [
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,58): warning C4244:             T=float
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(23,58): warning C4244:         ]
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(24,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(24,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(30,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(30,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(37,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(37,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Pobrane D\kolkoikrzyzyk1\Board.cpp(139,1): warning C4715: 'Board::WinCheck': not all control paths return a value
   kolkoikrzyzyk1.vcxproj -> D:\Pobrane D\kolkoikrzyzyk1\x64\Debug\kolkoikrzyzyk1.exe
